@@ -5,7 +5,7 @@
 <embed src="my game-1.jpg" width="300px" height="200px" />
 <a href="https://github.com/pycommunity30/pycommunity/blob/master/cool%20-%20Copy.py">click here for source code</a>
 <h1>Templates</h1>
-<a href="https://github.com/pycommunity30/pycommunity/blob/master/game templates">click here for templates</a>
+<a href="https://github.com/pycommunity30/pycommunity/blob/master/game%20templates">click here for templates</a>
 <p>here you can donate to me, support would be appreciated as i grow my site from scratch :)</p>
 <p>PayPal.me/amywjwu</p>
 
