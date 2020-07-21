@@ -1,2 +1,2 @@
 # pycommunity
-<embed src="pycommunity.pdf" width="1000px" height="50px" />
+<embed src="pycommunity.pdf" width="100px" height="50px" />
