@@ -5,6 +5,6 @@
 <embed src="my game-1.jpg" width="300px" height="200px" />
 <a href="https://github.com/pycommunity30/pycommunity/blob/master/cool%20-%20Copy.py">click here for source code</a>
 <p>here you can donate to me, support would be appreciated as i grow my site from scratch :)</p>
-<a href=https://PayPal.me/amywjwu">click here to support</a>
+<p>PayPal.me/amywjwu</p>
 
 
