@@ -3,6 +3,6 @@
 <h1>featured projects</h1>
 <p>the not so classical arcade game by jerrbearisawsome</p>
 <embed src="my game-1.jpg" width="300px" height="200px" />
-<a href="">click here for source code</a>
+<a href="https://github.com/pycommunity30/pycommunity/blob/master/cool%20-%20Copy.py">click here for source code</a>
 
 
