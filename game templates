@@ -1,6 +1,6 @@
-<h1>templates to use in your game</h1>
-<p>#pygame moving script<>
-<p>    for event in pygame.event.get():
+#templates to use in your game
+#pygame moving script
+    for event in pygame.event.get():
         if event.type == pygame.QUIT:
             pygame.quit()
         if event.type == pygame.KEYDOWN:
@@ -14,4 +14,4 @@
                 y = y + 10
             if event.key == ord('q'):
                 pygame.quit()
-                break</p>
+                break
