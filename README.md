@@ -11,7 +11,7 @@
 <p>bored? play pong!<p>
 
   <head>
-    <script src="pong.js"></script>
+    <p>              <p> <script src="pong.js"></script>
   </head>
   <body></body>
 
