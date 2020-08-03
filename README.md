@@ -8,5 +8,7 @@
 <a href="https://github.com/pycommunity30/pycommunity/blob/master/game%20templates">click here for templates</a>
 <p>here you can donate to me, support would be appreciated as i grow my site from scratch :)</p>
 <p>PayPal.me/amywjwu</p>
+<p>bored? play pong!<p>
+<iframe src="pong.py" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 
