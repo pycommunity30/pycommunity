@@ -9,6 +9,7 @@
 <p>here you can donate to me, support would be appreciated as i grow my site from scratch :)</p>
 <p>PayPal.me/amywjwu</p>
 <p>bored? play pong or download pygame version!<p>
+  <a href="https://github.com/pycommunity30/pycommunity/blob/master/game%20templates">pygame pong</a>
 <html>
   <head>
     <script src="pong.js"></script>
