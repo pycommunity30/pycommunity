@@ -9,11 +9,11 @@
 <p>here you can donate to me, support would be appreciated as i grow my site from scratch :)</p>
 <p>PayPal.me/amywjwu</p>
 <p>bored? play pong!<p>
-<html>
+
   <head>
     <script src="pong.js"></script>
   </head>
   <body></body>
-</html>
+
 
 
