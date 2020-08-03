@@ -8,22 +8,7 @@
 <a href="https://github.com/pycommunity30/pycommunity/blob/master/game%20templates">click here for templates</a>
 <p>here you can donate to me, support would be appreciated as i grow my site from scratch :)</p>
 <p>PayPal.me/amywjwu</p>
-<p>bored? play pong or pacman!<p>
-  <h1>Pacman</h1>
-
-<p><a href="https://github.com/daleharvey/pacman" target="_blank">Credits: https://github.com/daleharvey/pacman</a></p>
- <head>
-    <p>              <p> <script src="pacman.js"></script>
-  </head>
-  <body></body>
-  <div id="shim">shim for font face</div>
-<div id="pacman"></div>
-
-  <head>
-    <p>              <p> <script src="pong.js"></script>
-  </head>
-  <body></body>
-  <div id="shim">shim for font face</div>
+<p>bored? play pong or download pygame version!<p>
 
 
 
