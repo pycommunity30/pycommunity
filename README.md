@@ -17,13 +17,8 @@
   <body></body>
 </html>
 <h1>dont have python?<h1>
- <a href="https://repl.it/languages/python3">click here or use it in this site!</a>  
-  <html>
-  <head>
-    <script src="https://repl.it/languages/python3"></script>
-  </head>
-  <body></body>
-</html>
+ <a href="https://repl.it/languages/python3">click here!</a>  
+  
 
 
 
